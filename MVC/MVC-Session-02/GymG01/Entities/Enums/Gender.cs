@@ -1,6 +1,8 @@
 ﻿namespace GymG01.Entities.Enums
 {
-    public class Gender
+    public enum Gender
     {
+        Male = 1,   
+        Female = 2,
     }
 }

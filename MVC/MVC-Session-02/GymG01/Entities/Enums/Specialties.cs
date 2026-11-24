@@ -1,6 +1,10 @@
 ﻿namespace GymG01.Entities.Enums
 {
-    public class Specialties
+    public enum Specialties
     {
+        GeneralFitness = 1,
+        Yoga,
+        CrossFit,
+        BOXING
     }
 }
